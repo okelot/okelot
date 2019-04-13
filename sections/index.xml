@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Villardi Technologies OU: Technology of tommorrow</title>
+    <link>//localhost:1313/sections/</link>
+    <description>Recent content in Sections on Villardi Technologies OU: Technology of tommorrow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="//localhost:1313/sections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Viimase</title>
+      <link>//localhost:1313/sections/simple-values/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/sections/simple-values/</guid>
+      <description>Viimase kahe aasta jooksul on Eesti teaduse, tehnika ja hariduse arengut käsitlevates dokumentides, artiklites ja esinemistes hakatud sõna &amp;ldquo;tehnika&amp;rdquo; asemel järjest sagedamini kasutama sõna &amp;ldquo;tehnoloogia&amp;rdquo;. Veelgi enam, on kõlanud väiteid, nagu oleks tehnoloogia midagi enamat kui lihtlabane tehnika. Sisuliselt on tegemist eesti keele moonutamisega, sest mõlemale sõnale on meie keele arengus kujunenud selge ja üheselt mõistetav tähendus, mis on fikseeritud paljudes teatmeteostes. (&amp;hellip;) Veel ei ole hilja see viga parandada ja pöörduda tagasi korrektse, ammu välja kujunenud eesti oskuskeele juurde.</description>
+    </item>
+    
+    <item>
+      <title>Tehnoloogiaks</title>
+      <link>//localhost:1313/sections/simple-choices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/sections/simple-choices/</guid>
+      <description>Tehnoloogiaks nimetatakse millegi tootmiseks vajaminevaid oskusi, seadmeid ja masinaid. Spetsiifilise tehnoloogia asjatundjat või ka teadlast nimetatakse tehnoloogiks. Kõrgtehnoloogiliseks loetakse näiteks kosmosetehnoloogiat, arvutite, elektroonika, sidevahendite ja ravimite tootmist. Tehnoloogiliselt madalamad kategooriad on metallurgia, laevatööstus, tekstiili-, toidu- ja trükitööstus.[6]</description>
+    </item>
+    
+    <item>
+      <title>Slguseks</title>
+      <link>//localhost:1313/sections/simple-people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/sections/simple-people/</guid>
+      <description>sajandi alguseks oli tehnoloogia muutunud suurejooneliseks ettevõtmiseks, mis sõltus suurtest teadmiste ning oskuste kogumitest, need olid liiga suured et üks inimene seda kõike oskaks.  Uute tehnoloogiliste lahenduste loomiseks, tootmiseks ja kasutamiseks oli vaja luua suuri organisatsioone, loodi ka keerulisi tehnoloogilisi võrgustikke. Üheks näiteks on auto jaoks vajalik tehnoloogiate kogum – nafta rafineerimistehased, tanklad, parandustöökojad, rehvid, autotootjad, kiirteed jne. Ka suurenes riigi osa tehnoloogia kujundamises, läbi riikliku tehnoloogiapoliitika ja regulatsioonimehhanismide.</description>
+    </item>
+    
+    <item>
+      <title>Masinaid</title>
+      <link>//localhost:1313/sections/simple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/sections/simple/</guid>
+      <description>Tehnoloogiaks nimetatakse millegi tootmiseks vajaminevaid oskusi, seadmeid ja masinaid. Spetsiifilise tehnoloogia asjatundjat või ka teadlast nimetatakse tehnoloogiks. Kõrgtehnoloogiliseks loetakse näiteks kosmosetehnoloogiat, arvutite, elektroonika, sidevahendite ja ravimite tootmist. Tehnoloogiliselt madalamad kategooriad on metallurgia, laevatööstus, tekstiili-, toidu- ja trükitööstus.[6]</description>
+    </item>
+    
+  </channel>
+</rss>
