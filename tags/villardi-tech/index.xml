@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Villardi Technologies OU</title>
-    <link>http://villardi.tech/</link>
-    <description>Recent content on Villardi Technologies OU</description>
+    <title>Villardi Tech on Villardi Technologies OU</title>
+    <link>http://villardi.tech/tags/villardi-tech/</link>
+    <description>Recent content in Villardi Tech on Villardi Technologies OU</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://villardi.tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://villardi.tech/tags/villardi-tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,16 +21,6 @@
       <description>&lt;p&gt;We in VIllardi Tech beleive in buildins application with algorithms! By algorithms we mean this:&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;an algorithm can be expressed within a finite amount of space and time[1] and in a well-defined formal language[2] for calculating a function.[3] Starting from an initial state and initial input (perhaps empty),[4] the instructions describe a computation that, when executed, proceeds through a finite[5] number of well-defined successive states, eventually producing &amp;ldquo;output&amp;rdquo;[6] and terminating at a final ending state. The transition from one state to the next is not necessarily deterministic; some algorithms, known as randomized algorithms, incorporate random input.[7]&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About US</title>
-      <link>http://villardi.tech/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>http://villardi.tech/page/about/</guid>
-      <description>Villardi Technologies OU (registration number:14679202) is an application development company based in heart of Tallin. We develop iOS and Android application for our customers in professional and timely manner. Trust your Apps with us!
-Our Address: Harju maakond, Tallinn, Kesklinna linnaosa, Komeedi tn 17, 10122 Contact us: info@villardi.tech</description>
     </item>
     
   </channel>
